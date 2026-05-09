@@ -20,6 +20,12 @@ Proyek ini menganalisis hubungan antara Investasi Asing (Foreign Direct Investme
 - **Microsoft Excel** (Data Cleaning & Processing)
 - Analisis Statistik Deskriptif
 
+### Key Findings
+- Jawa Barat, DKI Jakarta, dan Sulawesi Tengah menjadi provinsi dengan investasi asing terbesar.
+- Investasi asing meningkat dari 28.208 juta US$ (2019) menjadi 49.120 juta US$ (2023).
+- Rata-rata penyerapan tenaga kerja hanya sekitar 40%, menunjukkan adanya kesenjangan antara jumlah investasi dan penyerapan tenaga kerja.
+- Terdapat hubungan positif namun tidak kuat antara investasi asing dan penyerapan tenaga kerja.
+
 ### Link Penting
 - **Live Dashboard**: [Lihat Tableau Dashboard](https://public.tableau.com/app/profile/kelompok.kapitaselekta/viz/TugasKapitaSelekta/Dashboardawal)
 - **Makalah Lengkap**: [Download PDF](./docs/Makalah_Kapita_Selekta.pdf)
