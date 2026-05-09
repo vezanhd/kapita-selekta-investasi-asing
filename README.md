@@ -26,9 +26,13 @@ Proyek ini menganalisis hubungan antara Investasi Asing (Foreign Direct Investme
 - **Presentasi**: [Download PPT](./docs/PPT_Presentasi.pdf)
 
 ### Screenshot Dashboard
+<img width="798" height="643" alt="image" src="https://github.com/user-attachments/assets/6ff88245-9937-43da-9f6a-21b2163099a8" />
 
-![Dashboard Utama](images/dashboard_utama.png)
-![Time Series](images/time_series.png)
+![Dashboard Utama]
+<img width="799" height="637" alt="image" src="https://github.com/user-attachments/assets/63db44c9-980e-4872-a103-32f6d0e82cd5" />
+
+![Time Series]<img width="798" height="642" alt="image" src="https://github.com/user-attachments/assets/3f21d9ec-c6cd-4fa1-b95b-bdfa1ec83d69" />
+
 
 ---
 
